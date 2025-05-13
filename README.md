@@ -1,59 +1,65 @@
-# analyse-matchs-football
+
 # ⚽ Analyse de Matchs de Football
+> 📊 Mini projet de data science appliqué au sport
+
+![Python](https://img.shields.io/badge/Code-Python-blue)
+
+---
 
 ## 🎯 Objectif
-Ce projet a pour but d'explorer un jeu de données lié à des matchs de football afin d'en tirer quelques statistiques clés et visualisations utiles. Il a été réalisé dans le cadre de mon apprentissage en data science et en programmation avec Python.
+Ce projet a pour but d’explorer et d’analyser des données de matchs de football, à l’aide de Python, afin de produire des statistiques utiles et des visualisations pertinentes. Il s’inscrit dans mon parcours d’apprentissage en Data Science.
 
 ---
 
-## 🧪 Données analysées
+## 🧰 Technologies utilisées
 
-Les variables utilisées incluent :
-- Nombre de buts à domicile et à l'extérieur
-- Possession du ballon (%)
-- Nombre de cartons jaunes
-- Total de buts par match (calculé)
-
----
-
-## 🔍 Analyses effectuées
-
-- Moyennes des buts et possessions
-- Match avec le plus grand nombre de buts
-- Ajout de nouvelles colonnes (total buts)
-- Statistiques descriptives
-- Visualisations (histogrammes, courbes, graphiques en barres)
+- Python
+- Pandas
+- Matplotlib
+- Jupyter Notebook
 
 ---
 
-## 📊 Bibliothèques utilisées
+## 📈 Aperçu visuel du projet
 
-- `pandas`
-- `matplotlib`
+> 📸 Ajoutez ici un visuel pour illustrer le projet (ex. : graphique issu du notebook).
 
----
-
-## 🧠 Résultats clés
-
-- Le nombre moyen de buts par match est d'environ 2,4
-- La possession moyenne est équilibrée entre les équipes (≈56%)
-- Visualisations claires pour comprendre la dynamique des matchs
+![Aperçu du projet](visuel_projet.png)
 
 ---
 
-## 💡 Prochaines étapes
+## 🔍 Détails de l’analyse
 
-- Ajouter d'autres indicateurs (fautes, tirs cadrés, passes)
-- Intégrer des analyses de séries temporelles
-- Créer une version web avec Streamlit ou Dash
-- Si possible , faire un modèle de machine learning 
+- Moyenne des buts à domicile et à l’extérieur
+- Statistiques sur la possession de balle
+- Calcul du total de buts par match
+- Match avec le plus de buts
+- Visualisation : histogrammes, courbes, barres
 
 ---
 
-## 👨‍💻 Auteur
+## 💡 Prochaines améliorations
+
+- Ajouter des variables : tirs, passes, fautes, etc.
+- Comparaison par équipe ou compétition
+- Application web avec Streamlit ou Dash
+- Si possible , envisager de faire un modèle de machine learning 
+
+---
+
+## 📂 Fichier principal
+
+- `Analyse_Matchs_Football_Prestige.ipynb` : Notebook principal avec tout le code d’analyse
+
+---
+
+## 👤 Auteur
 
 **TOTON Peniel-Prestige**  
-Étudiant en Master Intelligence Artificielle & Big Data  
+🎓 Étudiant en Master Intelligence Artificielle & Big Data  
 📧 penieltoton51@gmail.com  
 📍 Bénin  
 
+---
+
+## ⭐️ N’hésitez pas à suivre, cloner ou proposer une amélioration !
