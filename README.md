@@ -62,4 +62,4 @@ Ce projet a pour but d’explorer et d’analyser des données de matchs de foot
 
 ---
 
-## ⭐️ N’hésitez pas à suivre, cloner ou proposer une amélioration !
+## ⭐️ N’hésitez pas à suivre, cloner ou proposer une amélioration , je vous prie  !
